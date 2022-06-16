@@ -9,7 +9,7 @@ The details of this dataset can be seen in paper 'Urban Building Classification 
 
 Here is an example of the annotation.
 
-<img src="./example.png" width="400" height="400" />
+<img src="./example.png" width="350" height="350" />
 
 Input image (a), building footprints (b, green polygons), roof types (c) and functions (d, coarse classes)
 
