@@ -21,6 +21,7 @@ Annotations of roof coarse, roof fine and use coarse are build.
 The train and valitation set of this dataset can be downloaded from:
 
 BaiduNetdisk: [https://pan.baidu.com/s/1bZI8EjjouLObged-9vedTQ?pwd=l019](https://pan.baidu.com/s/1bZI8EjjouLObged-9vedTQ?pwd=l019) password: 1019
+
 Google Grive: [https://drive.google.com/file/d/1gohRwVUln55EanXoStY4IPR3rn3GlHSU/view?usp=sharing](https://drive.google.com/file/d/1gohRwVUln55EanXoStY4IPR3rn3GlHSU/view?usp=sharing)
 # Citation
 Bibtex will be added after the publication.
