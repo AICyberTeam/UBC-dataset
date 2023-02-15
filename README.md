@@ -24,7 +24,7 @@ BaiduNetdisk: [https://pan.baidu.com/s/1M6yYD1lvbqsVpn5MHGa2tg?pwd=7hbm](https:/
 
 Google Grive: [https://drive.google.com/file/d/1XnKFKqjoa95PLXFw01HcXx4Az49Qw37i/view?usp=sharing](https://drive.google.com/file/d/1XnKFKqjoa95PLXFw01HcXx4Az49Qw37i/view?usp=sharing)
 # References
-If you use our dataset or code, please cite our CVPR EarthVision 2022 paper:
+If you use our dataset, please cite our CVPR EarthVision 2022 paper:
 ```
 @INPROCEEDINGS{9857458,
   author={Huang, Xingliang and Ren, Libo and Liu, Chenglong and Wang, Yixuan and Yu, Hongfeng and Schmitt, Michael and Hänsch, Ronny and Sun, Xian and Huang, Hai and Mayer, Helmut},
