@@ -23,5 +23,16 @@ The train and valitation set of this dataset can be downloaded from:
 BaiduNetdisk: [https://pan.baidu.com/s/1M6yYD1lvbqsVpn5MHGa2tg?pwd=7hbm](https://pan.baidu.com/s/1M6yYD1lvbqsVpn5MHGa2tg?pwd=7hbm) password: 7hbm
 
 Google Grive: [https://drive.google.com/file/d/1XnKFKqjoa95PLXFw01HcXx4Az49Qw37i/view?usp=sharing](https://drive.google.com/file/d/1XnKFKqjoa95PLXFw01HcXx4Az49Qw37i/view?usp=sharing)
-# Citation
-Bibtex will be added after the publication.
+# References
+If you use our dataset or code, please cite our CVPR EarthVision 2022 paper:
+```
+@INPROCEEDINGS{9857458,
+  author={Huang, Xingliang and Ren, Libo and Liu, Chenglong and Wang, Yixuan and Yu, Hongfeng and Schmitt, Michael and Hänsch, Ronny and Sun, Xian and Huang, Hai and Mayer, Helmut},
+  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}, 
+  title={Urban Building Classification (UBC) – A Dataset for Individual Building Detection and Classification from Satellite Imagery}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1412-1420},
+  doi={10.1109/CVPRW56347.2022.00147}}
+```
