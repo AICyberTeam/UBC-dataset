@@ -21,10 +21,22 @@ Four selected urban areas with typical architectural characteristics (left) and 
 Here is a RGB and SAR image pair example in UBCv2.
 
 <p float="left">
-  <img src="./UBCv2_examples.png" width="200" />
-  <img src="./UBCv2_examples.png" width="200" /> 
+  <img src="./figures/fig_1_version_2.png" width="200" />
+  <img src="./figures/fig_2_version_2.png" width="200" /> 
 </p>
 
+ Example of a multi-modal image pair: The RGB (left) and the SAR (right) image are finely registered.
+
+Here is several baseline results we run on UBCv2:
+
+Model | AP | AP50 | FL | GA | GM | RO | ME | H1 | H2 | MA | PM | AR | RE | OT
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+SOLOv2 | 11.2 | 19.2 | 20.6 | 16.8 | 24.1 | 5.9 | 4.1 | 4.2 | 31.1 | 1.6 | 2.2 | 9.5 | **8.6** | 5.8
+QueryInst | 15.3 | 25.2 | 25.5 | 23.4 | 28.6 | 5.1 | 24.2 | 8.9 | 33.9 | 7 | 4.8 | 13.9 | 4.5 | 5.5
+Mask R-CNN | 15.5 | 25.9 | 25.8 | 24.7 | **29.2** | 5.1 | 12.3 | 10 | 39 | 5.4 | 5.6 | 16.8 | 5.8 | **7.2**
+C Mask R-CNN | 16.5 | 26.9 | 26.5 | 24.5 | 29.1 | 4.7 | 19.7 | 10.9 | 38.6 | 6 | **7** | **18.5** | 6.7 | 6.4
+Mask R-CNN + CGT | 16.3 | 26.3 | 25.2 | **25.1** | 27.4 | **9.0** | 21.6 | 9.8 | 39.6 | 5.7 | 5.8 | 17.2 | 3.2 | 6.8
+C Mask R-CNN + CGT | **17.1** | **27.1** | **27.2** | 25.0 | 28.6 | 6.6 | **24.9** | **11.1** | **39.8** | **7.7** | 5.8 | 16.4 | 5.7 | 7.2
 
 ## Introduction of UBCv1
 We present a dataset for building detection and classification from very high-resolution satellite imagery with the focus on object-level interpretation of individual buildings.
