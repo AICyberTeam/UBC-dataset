@@ -53,7 +53,7 @@ Input image (a), building footprints (b, green polygons), roof types (c) and fun
 ## Download
 Currently, we only provide the standard [COCO](https://cocodataset.org/#home) instance segmentation format.
 
-# UBCv1
+### UBCv1
 Annotations of roof coarse, roof fine and use coarse are build. 
 
 The train and valitation set of this dataset can be downloaded from:
@@ -62,7 +62,7 @@ BaiduNetdisk: [https://pan.baidu.com/s/1M6yYD1lvbqsVpn5MHGa2tg?pwd=7hbm](https:/
 
 Google Grive: [https://drive.google.com/file/d/1XnKFKqjoa95PLXFw01HcXx4Az49Qw37i/view?usp=sharing](https://drive.google.com/file/d/1XnKFKqjoa95PLXFw01HcXx4Az49Qw37i/view?usp=sharing)
 
-# UBCv2
+### UBCv2
 Fine-grained building roof instance segmentation. 
 
 The train and valitation set of this dataset can be downloaded from:
