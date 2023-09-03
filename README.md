@@ -65,15 +65,11 @@ Google Grive: [https://drive.google.com/file/d/1XnKFKqjoa95PLXFw01HcXx4Az49Qw37i
 ### UBCv2
 Fine-grained building roof instance segmentation. The train and valitation set of this dataset can be downloaded from:
 
-BaiduNetdisk: link will be added after the publication.
+BaiduNetdisk: [https://pan.baidu.com/s/1GEyCDikQ53RaHoobk3N71Q?pwd=a6bn](https://pan.baidu.com/s/1GEyCDikQ53RaHoobk3N71Q?pwd=a6bn) password：a6bn 
 
-Google Grive: link will be added after the publication.
+Multi-modal fine-grained building roof instance segmentation (RGB + SAR).
 
-Multi-modal fine-grained building roof instance segmentation (RGB + SAR). The train and valitation set of this dataset can be downloaded from:
-
-BaiduNetdisk: link will be added after the publication.
-
-Google Grive: link will be added after the publication.
+BaiduNetdisk: 
 
 ## References
 If you use the UBCv1 dataset, please cite our paper on CVPR workshops, 2022:
