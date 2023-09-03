@@ -6,7 +6,7 @@ We have finished our work on UBCv2! There are two improvements in the UBCv2 data
 - 20 global cities with various layouts and styles.
 - RGB and SAR image pairs for multi-modal research.
 
-We have submitted the UBCv2 paper to IEEE Transactions on Geoscience and Remote Sensing. The complete UBCv2 dataset will be available after the publication of paper.
+The manuscript of UBCv2 has been accepted by IEEE Transactions on Geoscience and Remote Sensing. The complete UBCv2 dataset is now available.
 In this paper, we propose a Class-wise Geometrical Transformer (CGT) module to improve the performance of general two-stage instance segmentation models for fine-grained building classification.
 
 ## Introduction of UBCv2
@@ -31,7 +31,7 @@ Here is several baseline results we run on UBCv2:
 
 Model | AP | AP50 | FL | GA | GM | RO | ME | H1 | H2 | MA | PM | AR | RE | OT
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-SOLOv2 | 11.2 | 19.2 | 20.6 | 16.8 | 24.1 | 5.9 | 4.1 | 4.2 | 31.1 | 1.6 | 2.2 | 9.5 | **8.6** | 5.8
+SOLOv2 | 14.2 | 24.0 | 24.6 | 21.3 | 27.7 | 5.8 | 9.5 | 7.6 | 35.0 | 3.6 | 4.6 | 14.8 | **11.2** | 6.1
 QueryInst | 15.3 | 25.2 | 25.5 | 23.4 | 28.6 | 5.1 | 24.2 | 8.9 | 33.9 | 7 | 4.8 | 13.9 | 4.5 | 5.5
 Mask R-CNN | 15.5 | 25.9 | 25.8 | 24.7 | **29.2** | 5.1 | 12.3 | 10 | 39 | 5.4 | 5.6 | 16.8 | 5.8 | **7.2**
 C Mask R-CNN | 16.5 | 26.9 | 26.5 | 24.5 | 29.1 | 4.7 | 19.7 | 10.9 | 38.6 | 6 | **7** | **18.5** | 6.7 | 6.4
@@ -63,17 +63,13 @@ BaiduNetdisk: [https://pan.baidu.com/s/1M6yYD1lvbqsVpn5MHGa2tg?pwd=7hbm](https:/
 Google Grive: [https://drive.google.com/file/d/1XnKFKqjoa95PLXFw01HcXx4Az49Qw37i/view?usp=sharing](https://drive.google.com/file/d/1XnKFKqjoa95PLXFw01HcXx4Az49Qw37i/view?usp=sharing)
 
 ### UBCv2
-Fine-grained building roof instance segmentation. 
-
-The train and valitation set of this dataset can be downloaded from:
+Fine-grained building roof instance segmentation. The train and valitation set of this dataset can be downloaded from:
 
 BaiduNetdisk: link will be added after the publication.
 
 Google Grive: link will be added after the publication.
 
-Multi-modal fine-grained building roof instance segmentation (RGB + SAR). 
-
-The train and valitation set of this dataset can be downloaded from:
+Multi-modal fine-grained building roof instance segmentation (RGB + SAR). The train and valitation set of this dataset can be downloaded from:
 
 BaiduNetdisk: link will be added after the publication.
 
