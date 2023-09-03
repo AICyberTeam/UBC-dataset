@@ -1,6 +1,9 @@
 # UBC-dataset
 Urban Building Classification dataset
 
+## Update!
+We have finished our work on UBCv2! Please go to the UBCv2 branch for more details.
+- 
 ## Introduction
 We present a dataset for building detection and classification from very high-resolution satellite imagery with the focus on object-level interpretation of individual buildings.
 It is meant to provide not only a flexible test platform for object detection algorithms but also a solid basis for the comparison of city morphologies and the investigation of urban planning.
