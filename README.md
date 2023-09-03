@@ -2,7 +2,7 @@
 Urban Building Classification dataset
 
 ## Update!
-We have finished our work on UBCv2! Please go to the UBCv2 branch for more details.
+We have finished our work on UBCv2! Please go to the [UBCv2](https://github.com/AICyberTeam/UBC-dataset/tree/UBCv2) branch for more details.
 - 
 ## Introduction
 We present a dataset for building detection and classification from very high-resolution satellite imagery with the focus on object-level interpretation of individual buildings.
