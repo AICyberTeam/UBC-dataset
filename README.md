@@ -86,4 +86,15 @@ If you use the UBCv1 dataset, please cite our paper on CVPR workshops, 2022:
   pages={1412-1420},
   doi={10.1109/CVPRW56347.2022.00147}}
 ```
-The citation of UBCv2 link will be added after the publication.
+If you use the UBCv2 dataset, please cite our paper on TGRS, 2023:
+```
+@ARTICLE{10237272,
+  author={Huang, Xingliang and Chen, Kaiqiang and Tang, Deke and Liu, Chenglong and Ren, Libo and Sun, Zheng and Hänsch, Ronny and Schmitt, Michael and Sun, Xian and Huang, Hai and Mayer, Helmut},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Urban Building Classification (UBC) V2 - A Benchmark for Global Building Detection and Fine-grained Classification from Satellite Imagery}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2023.3311093}}
+```
