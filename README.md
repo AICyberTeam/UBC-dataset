@@ -73,6 +73,10 @@ Multi-modal fine-grained building roof instance segmentation (RGB + SAR).
 
 BaiduNetdisk: [https://pan.baidu.com/s/1kdwgGFgafQtsQK6VrMq7-A?pwd=xhgt](https://pan.baidu.com/s/1kdwgGFgafQtsQK6VrMq7-A?pwd=xhgt) password：xhgt 
 
+The images of the test set can be downloaded from the following link:
+
+BaiduNetdisk: [https://pan.baidu.com/s/1hOXC8EkO91snaWUotQ-zrg?pwd=pz07](https://pan.baidu.com/s/1hOXC8EkO91snaWUotQ-zrg?pwd=pz07) password: pz07
+
 ## References
 If you use the UBCv1 dataset, please cite our paper on CVPR workshops, 2022:
 ```
