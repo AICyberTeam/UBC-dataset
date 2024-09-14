@@ -2,6 +2,8 @@
 A Fine-grained Urban Building Classification dataset
 
 ## Update!
+We have updated the vectorized version of UBCv2, with all annotations processed to support the efficient extraction and validation of building data from remote sensing images. These annotations are provided in shapefile format.
+
 We have finished our work on UBCv2! There are two improvements in the UBCv2 dataset:
 - 20 global cities with various layouts and styles.
 - RGB and SAR image pairs for multi-modal research.
@@ -76,6 +78,13 @@ BaiduNetdisk: [https://pan.baidu.com/s/1kdwgGFgafQtsQK6VrMq7-A?pwd=xhgt](https:/
 The images of the test set can be downloaded from the following link:
 
 BaiduNetdisk: [https://pan.baidu.com/s/1hOXC8EkO91snaWUotQ-zrg?pwd=pz07](https://pan.baidu.com/s/1hOXC8EkO91snaWUotQ-zrg?pwd=pz07) password: pz07
+
+### UBCv2 (vec)
+The train and valitation set of shapefiles can be downloaded from:
+
+Fine-grained vectorized building extraction. 
+
+BaiduNetdisk: [https://pan.baidu.com/s/1dTsKTRyc6pnRlS8y55bX_w](https://pan.baidu.com/s/1dTsKTRyc6pnRlS8y55bX_w) password：doxk 
 
 ## References
 If you use the UBCv1 dataset, please cite our paper on CVPR workshops, 2022:
